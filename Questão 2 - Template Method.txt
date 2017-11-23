@@ -1,0 +1,2 @@
+Sim, é possível. Ficaria flexível, com um código mais legível e mais fácil de testar.
+Uma desvantagem é que as dependências serão gerenciadas no construtor.
