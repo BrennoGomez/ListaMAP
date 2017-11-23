@@ -1,0 +1,5 @@
+CommandAbstract possui o método de execução;
+DvdName possui a forma de busca, no caso pelo nome;
+DvdCommandNameStarsOff e DvdCommandNameStarsON são classes que impementam CommandAbstract e fazem a ação de ON/OFF.
+
+O uso do Command é adotado porque pode ser que se crie outros tipos de busca.
