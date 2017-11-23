@@ -1,0 +1,3 @@
+Decorator aplicamos quando há necessidade de alterar o comportamento do objeto, quando ele pode assumir vários estados, daí criamos subclasses para cada estado.
+O Strategy é aplicado quando temos muitas classes que se relacionam e só muda a ação de cada.
+O Composite permite uma maneira uniforme de tratamento dos objetos e trantamento de composições de objetos. Faz operações para adicionar e remover objeto.
